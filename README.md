@@ -1,4 +1,4 @@
-# DataScienceProjects
+# DataAnalyticsProjects
  
  **The Southern Water Corp Project Using Python**
 ---
@@ -14,3 +14,6 @@ I has indicated that by the end of this analysis, I would like:
    1. Identify a list of variables that may provide an indication of when the	pump may be failing. 
    2. Come up with a prototype linear equation that can be	 used to ‘describe’ what	variable are closely related	to pump failure.
 ---
+This project has two parts:
+- Descriptive Statistics
+- Inferential Statistics
